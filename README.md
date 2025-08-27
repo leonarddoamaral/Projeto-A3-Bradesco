@@ -26,3 +26,15 @@ Projeto de A3 de Usabilidade Web e Sistemas Distribuídos.
   </li>
 </ul>
 
+TABELA 1
+
+tela de cadastro
+escolher piloto(s)
+
+tela inicial: Principais noticias dos pilotos
+calendário com as próximas corridas: clicando na data da corrida, abrem as informações.
+Perfil dos pilotos: nome, nacionalidade, idade, equipe, troféus;
+Perfil das equipes: Nome, países, conquistas, um pouco da história;
+perfil das pistas: Localização, desenho, história, kms/voltas.
+
+loja: Criar CRUD com filtro por equipes e pilotos e gênero/kids.
