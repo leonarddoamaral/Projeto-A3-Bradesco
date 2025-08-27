@@ -1,4 +1,4 @@
-<h1 align="center">Projeto A3 Formula 1</h1>  
+<h1 align="center">Projeto A3 Formula 1 🏎️🏁</h1>  
 
 Projeto de A3 de Usabilidade Web e Sistemas Distribuídos.
 <h3>Membros:</h3>
