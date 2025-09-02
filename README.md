@@ -16,6 +16,7 @@ Projeto de A3 de Usabilidade Web e Sistemas Distribuídos.
     Luighi Cordeiro Gaspareto 
   </li>
 </ul>
+<h2>APIs Usadas</h2>
 <h3>API Formula 1:</h3>
 <ul>
   <li>
@@ -25,6 +26,7 @@ Projeto de A3 de Usabilidade Web e Sistemas Distribuídos.
     <a href="https://openf1.org/?javascript#api-endpoints"> Open F1</a>
   </li>
 </ul>
+
 
 TABELA 1
 
