@@ -1,4 +1,5 @@
 <h1 align="center">Projeto A3 Formula 1 🏎️🏁</h1>  
+<img width="3206" height="656" alt="1" src="https://github.com/user-attachments/assets/2f872166-15f2-4d63-8d8c-f6ee49524838" />
 
 Projeto de A3 de Usabilidade Web e Sistemas Distribuídos.
 <h3>Membros:</h3>
