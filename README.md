@@ -7,7 +7,9 @@
 
 ---
 
-## Front-end 🖼️🎨
+## Entregas
+
+### Front-end 🖼️🎨
 
 | Data | Tarefa |
 | :--- | :--- |
@@ -18,7 +20,7 @@
 
 ---
 
-## Back-end 📊📟
+### Back-end 📊📟
 
 | Data | Tarefa |
 | :--- | :--- |
