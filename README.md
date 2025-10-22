@@ -5,7 +5,6 @@
 * Leonardo do Amaral Quinquio
 * Luighi Cordeiro Gaspareto
 
----
 
 ## Entregas
 
@@ -29,3 +28,29 @@
 | **🗓️ 12/11** | 80% do back-end finalizado. |
 | **🗓️ 19/11** | Projeto finalizado com integração com front-end. |
 
+-----
+
+## Documentação
+
+### Requisitos Funcionais
+
+| RF | Requisitos Funcionais |
+|:--- | :--- |
+| **RF01** |	O Sistema deve permitir cadastro de novos usuarios. |
+| **RF02** |	O Sistema deve permitir ao usuario fazer mais de uma denuncia. |
+| **RF03** |	O Sistema deve permitir ao usuario pesquisar denuncias. |
+| **RF04** |	O Sistema deve permitir somente a criação de uma denuncia se o usuario tiver um cadastro. |
+
+
+### Requisitos Não funcionais
+
+| RNF | Requisitos Não funcionais |
+|:--- | :--- |
+| **RNF01** | O código deve utilizar as linguagens Java para o back-end e TypeScritpt(utilizando a biblioteca React) para o front-end. |
+| **RNF02** | O sistema deve seguir as euristicas de neielsen. |
+| **RNF03** | Cada microserviço deve ser isolado e independente. |
+
+
+### Diagrama Banco de Dados
+
+![Diagrama de Componentes do Sistema](./docs/Diagrama%20db%20Pix%20Shield.png)
