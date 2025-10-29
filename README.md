@@ -37,9 +37,12 @@
 | RF | Requisitos Funcionais |
 |:--- | :--- |
 | **RF01** |	O Sistema deve permitir cadastro de novos usuarios. |
-| **RF02** |	O Sistema deve permitir ao usuario fazer mais de uma denuncia. |
-| **RF03** |	O Sistema deve permitir ao usuario pesquisar denuncias. |
+| **RF02** |	O Sistema deve permitir ao usuario criar mais de uma denuncia. |
+| **RF03** |	O sistema deve permitir a consulta de uma chave PIX por qualquer usuário, sem necessidade de login. |
 | **RF04** |	O Sistema deve permitir somente a criação de uma denuncia se o usuario tiver um cadastro. |
+| **RF05** |  O usuário deve ter acesso a um histórico com todas as denúncias que registrou. |
+| **RF06** |  O Moderador deve ter acesso a um painel para revisar, aprovar (marcar como verificada) ou recusar (marcar como falsa) denúncias pendentes e categorizar o tipo de golpe.
+| **RF07** |  A consulta de chave PIX deve retornar o número de denúncias.
 
 
 ### Requisitos Não funcionais
@@ -47,8 +50,10 @@
 | RNF | Requisitos Não funcionais |
 |:--- | :--- |
 | **RNF01** | O código deve utilizar as linguagens Java para o back-end, TypeScritpt(utilizando a biblioteca React) para o front-end e SQL para o banco de dados |
-| **RNF02** | O sistema deve seguir as euristicas de neielsen. |
+| **RNF02** |O sistema deve seguir as heurísticas de Nielsen para garantir uma boa experiência e interface de usuário. |
 | **RNF03** | Cada microserviço deve ser isolado e independente. |
+| **RNF04** | O Frontend deve fornecer uma interface de usuário clara e responsiva para acesso em dispositivos móveis. |
+
 
 
 ### Diagrama Banco de Dados
